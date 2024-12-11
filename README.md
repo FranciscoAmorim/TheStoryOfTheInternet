@@ -1,7 +1,7 @@
 # The Story Of The Internet
 
 ## Sobre o Projeto
-Este repositório contém o projeto acadêmico desenvolvido pelo **Grupo 02** para a disciplina de Inglês. O objetivo foi explorar ferramentas de inteligência artificial (IA) para criar materiais visuais e interativos relacionados ao livro **The Story Of The Internet**.
+Este repositório contém o projeto acadêmico desenvolvido pelo **Grupo 02 - ADS** do SENAC para a disciplina de Inglês. O objetivo foi explorar ferramentas de inteligência artificial (IA) para criar materiais visuais e interativos relacionados ao livro **The Story Of The Internet**.
 
 ---
 
@@ -33,9 +33,8 @@ Este repositório contém o projeto acadêmico desenvolvido pelo **Grupo 02** pa
 ---
 
 ## Estrutura do Repositório
-- `/assets`: Contém imagens geradas pelas ferramentas de IA.
-- `/videos`: Contém vídeos criados com o Invideo AI.
-- `/css` e `/js`: Arquivos do Bootstrap e scripts personalizados.
+- `/img`: Contém imagens geradas pelas ferramentas de IA.
+- `/css`: Arquivos de estilização do Bootstrap.
 
 ---
 
